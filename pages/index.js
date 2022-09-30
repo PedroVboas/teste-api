@@ -1,7 +1,9 @@
 
 function Home () {
   return (
-    <div>home oi </div>
+    <div>
+        <h1>home</h1>
+    </div>
   )
 }
 
